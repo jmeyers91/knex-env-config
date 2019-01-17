@@ -1,0 +1,27 @@
+{
+  "name": "knex-env-config",
+  "version": "1.0.0",
+  "description": "Create Knex config objects with defaults loaded from the environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test npx jest"
+  },
+  "dependencies": {
+    "lodash.merge": "^4.6.1"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "npx": "^10.2.0"
+  },
+  "keywords": ["knex", "env", "config"],
+  "author": "James Meyers",
+  "license": "MIT",
+  "homepage": "https://github.com/jmeyers91/knex-env-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmeyers91/knex-env-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmeyers91/knex-env-config/issues"
+  }
+}
