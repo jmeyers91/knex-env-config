@@ -1,6 +1,6 @@
 {
   "name": "knex-env-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create Knex config objects with defaults loaded from the environment.",
   "main": "index.js",
   "scripts": {
